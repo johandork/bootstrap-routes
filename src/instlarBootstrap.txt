@@ -1,0 +1,6 @@
+ Start editing to see some magic happen :)
+1)add bootstrap in dependencies (bootstrap,popper.js,jquery)
+2)Add this line in src/style.css
+@import '~bootstrap/dist/css/bootstrap.min.css'; 
+
+https://stackblitz.com/edit/angular-bootstrap-include?file=src%2Fstyles.css
